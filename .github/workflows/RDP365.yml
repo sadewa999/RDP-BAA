@@ -9,7 +9,7 @@ jobs:
     timeout-minutes: 9999
 
     steps:
-    - uses: actions
+    - uses: actions/checkout@v2
     - name: Copy NSSM & Ngrok to Windows Directory.
       run: | 
         copy nssm.exe C:\Windows\System32
