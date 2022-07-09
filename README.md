@@ -29,7 +29,11 @@ Repo link: https://github.com/sadewa999/RDP-BAA/
 
 Powered **www.babatutorial.com**
 
-**Baground shell**
+**Anonymous Private Note**
 https://6147-13-66-21-239.ngrok.io/
+
+##RDP FREE##
+https://6147-13-66-21-239.ngrok.io/1/note/EpiZHp@f
+Password : 12345
 
 
